@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on TaskFlow</title>
+    <link>https://aryabansal1.github.io/hugo-mock-landing-page/authors/</link>
+    <description>Recent content in Authors on TaskFlow</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed. Modified by Arya Bansal, &#39;27.</copyright>
+    <lastBuildDate>Thu, 06 Feb 2025 13:56:45 -0500</lastBuildDate>
+    <atom:link href="https://aryabansal1.github.io/hugo-mock-landing-page/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arya Bansal</title>
+      <link>https://aryabansal1.github.io/hugo-mock-landing-page/authors/arya-bansal/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aryabansal1.github.io/hugo-mock-landing-page/authors/arya-bansal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bjørn Erik Pedersen</title>
+      <link>https://aryabansal1.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0100</pubDate>
+      <guid>https://aryabansal1.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mark Otto</title>
+      <link>https://aryabansal1.github.io/hugo-mock-landing-page/authors/mark-otto/</link>
+      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
+      <guid>https://aryabansal1.github.io/hugo-mock-landing-page/authors/mark-otto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filipe Carneiro</title>
+      <link>https://aryabansal1.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aryabansal1.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</guid>
+      <description>&lt;p&gt;Filipe Carneiro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
