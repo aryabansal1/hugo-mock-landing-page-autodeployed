@@ -1,18 +1,26 @@
 ---
-title: "Bootstrap 5.3.0"
-description: "It’s official, the final stable release of v5.3.0 has landed!"
-date: 2023-05-30
+title: "Introducing TaskFlow"
+description: "Streamline your workflow with TaskFlow – a simple, powerful task management tool designed for individuals and teams."
+date: 2024-02-06
 draft: false
-images: ["bootstrap-5-3.png"]
-categories: ["The Bootstrap Blog"]
-tags: ["Bootstrap"]
-keywords: ["bootstrap 5 3","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+images: ["images/calendar.png"]
+categories: ["TaskFlow Updates"]
+tags: ["Task Management", "Productivity", "TaskFlow"]
+keywords: ["task management", "productivity tool", "team collaboration"]
+authors: ["Arya Bansal"]
 ---
 
-![Bootstrap 5 3](bootstrap-5-3.png)
-{ .img-fluid }
+> TaskFlow is here to revolutionize the way you manage tasks! Whether you're an individual looking to stay organized or a team collaborating on projects, TaskFlow simplifies task creation, prioritization, and tracking—all in a sleek, intuitive interface.
 
-> It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!
+With TaskFlow, you can:
 
-On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases. Keep reading to learn everything that’s [new in v5.3.0](https://blog.getbootstrap.com/2023/05/30/bootstrap-5-3-0/).
+- **Create tasks with due dates** to stay on top of deadlines.
+- **Use a shared team task board** for seamless collaboration.
+- **Prioritize tasks** so you focus on what matters most.
+- **Set recurring tasks** to automate repetitive workflows.
+- **Receive smart notifications** to ensure you never miss an important task.
+- **Integrate with Google Calendar** for a fully connected schedule.
+
+We're committed to making productivity effortless. Stay tuned for exciting updates and new features in the coming months!
+
+Try TaskFlow today and take control of your workflow! 🚀
