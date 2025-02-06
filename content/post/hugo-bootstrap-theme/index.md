@@ -16,7 +16,7 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 🛡️ Task Creation With Due Dates
 
   Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
 
