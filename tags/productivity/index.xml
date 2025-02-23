@@ -1,20 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Productivity on TaskFlow</title>
-    <link>https://aryabansal1.github.io/hugo-mock-landing-page/tags/productivity/</link>
-    <description>Recent content in Productivity on TaskFlow</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed. Modified by Arya Bansal, &#39;27.</copyright>
-    <lastBuildDate>Thu, 06 Feb 2025 13:56:45 -0500</lastBuildDate>
-    <atom:link href="https://aryabansal1.github.io/hugo-mock-landing-page/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introducing TaskFlow</title>
-      <link>https://aryabansal1.github.io/hugo-mock-landing-page/post/bootstrap-5-3-0/</link>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://aryabansal1.github.io/hugo-mock-landing-page/post/bootstrap-5-3-0/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;TaskFlow is here to revolutionize the way you manage tasks! Whether you&amp;rsquo;re an individual looking to stay organized or a team collaborating on projects, TaskFlow simplifies task creation, prioritization, and tracking—all in a sleek, intuitive interface.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;With TaskFlow, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Create tasks with due dates&lt;/strong&gt; to stay on top of deadlines.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Use a shared team task board&lt;/strong&gt; for seamless collaboration.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Prioritize tasks&lt;/strong&gt; so you focus on what matters most.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Set recurring tasks&lt;/strong&gt; to automate repetitive workflows.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Receive smart notifications&lt;/strong&gt; to ensure you never miss an important task.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Integrate with Google Calendar&lt;/strong&gt; for a fully connected schedule.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We&amp;rsquo;re committed to making productivity effortless. Stay tuned for exciting updates and new features in the coming months!&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Productivity on TaskFlow</title><link>https://aryabansal1.github.io/hugo-mock-landing-page-autodeployed/tags/productivity/</link><description>Recent content in Productivity on TaskFlow</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed. Modified by Arya Bansal, '27.</copyright><lastBuildDate>Sun, 23 Feb 2025 13:06:19 +0000</lastBuildDate><atom:link href="https://aryabansal1.github.io/hugo-mock-landing-page-autodeployed/tags/productivity/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing TaskFlow</title><link>https://aryabansal1.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</link><pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate><guid>https://aryabansal1.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</guid><description>&lt;blockquote>
+&lt;p>TaskFlow is here to revolutionize the way you manage tasks! Whether you&amp;rsquo;re an individual looking to stay organized or a team collaborating on projects, TaskFlow simplifies task creation, prioritization, and tracking—all in a sleek, intuitive interface.&lt;/p>&lt;/blockquote>
+&lt;p>With TaskFlow, you can:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create tasks with due dates&lt;/strong> to stay on top of deadlines.&lt;/li>
+&lt;li>&lt;strong>Use a shared team task board&lt;/strong> for seamless collaboration.&lt;/li>
+&lt;li>&lt;strong>Prioritize tasks&lt;/strong> so you focus on what matters most.&lt;/li>
+&lt;li>&lt;strong>Set recurring tasks&lt;/strong> to automate repetitive workflows.&lt;/li>
+&lt;li>&lt;strong>Receive smart notifications&lt;/strong> to ensure you never miss an important task.&lt;/li>
+&lt;li>&lt;strong>Integrate with Google Calendar&lt;/strong> for a fully connected schedule.&lt;/li>
+&lt;/ul>
+&lt;p>We&amp;rsquo;re committed to making productivity effortless. Stay tuned for exciting updates and new features in the coming months!&lt;/p></description></item></channel></rss>
